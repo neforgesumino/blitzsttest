@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blitzsttest/static/css/main.9759e8fb.chunk.css",
+    "main.js": "/blitzsttest/static/js/main.5e1aac6d.chunk.js",
+    "main.js.map": "/blitzsttest/static/js/main.5e1aac6d.chunk.js.map",
+    "runtime-main.js": "/blitzsttest/static/js/runtime-main.338205e9.js",
+    "runtime-main.js.map": "/blitzsttest/static/js/runtime-main.338205e9.js.map",
+    "static/js/2.7494f8c7.chunk.js": "/blitzsttest/static/js/2.7494f8c7.chunk.js",
+    "static/js/2.7494f8c7.chunk.js.map": "/blitzsttest/static/js/2.7494f8c7.chunk.js.map",
+    "index.html": "/blitzsttest/index.html",
+    "static/css/main.9759e8fb.chunk.css.map": "/blitzsttest/static/css/main.9759e8fb.chunk.css.map",
+    "static/js/2.7494f8c7.chunk.js.LICENSE.txt": "/blitzsttest/static/js/2.7494f8c7.chunk.js.LICENSE.txt",
+    "static/media/Header.scss": "/blitzsttest/static/media/Background.3e7b101e.jpg",
+    "static/media/JasonWood.1f0458a7.jpg": "/blitzsttest/static/media/JasonWood.1f0458a7.jpg",
+    "static/media/AboutMe.scss": "/blitzsttest/static/media/nexalight.4c218bf7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.338205e9.js",
+    "static/js/2.7494f8c7.chunk.js",
+    "static/css/main.9759e8fb.chunk.css",
+    "static/js/main.5e1aac6d.chunk.js"
+  ]
+}
